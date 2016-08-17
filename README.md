@@ -2,7 +2,7 @@
 
 #### _Program finds Leap Years, 8-17-2016_
 
-#### By _**{List of contributors}**_
+#### By _**Caleb Paul and Karen Freeman-Smith**_
 
 ## Description
 
